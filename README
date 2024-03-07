@@ -1,0 +1,16 @@
+LFmap -- a program to generate maps of the sky from 10s to 100s of MHz. 
+
+This is v1.0, last modified by Emil Polisensky on Oct 12, 2007
+
+First, modify the Makefile with the dir path of the cfitsio library, 
+  or delete if not needed
+
+To compile, enter:
+make LFmap
+
+To run, enter:
+./LFmap
+
+The program reads input parameters from the LFmap.config file. 
+For further instructions see the LFmap.pdf file.
+
