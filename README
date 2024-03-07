@@ -14,3 +14,6 @@ To run, enter:
 The program reads input parameters from the LFmap.config file. 
 For further instructions see the LFmap.pdf file.
 
+Tomas Fodran has developed a Python package to convert LFmap maps
+to healpy format. See:
+https://github.com/F-Tomas/pylfmap
